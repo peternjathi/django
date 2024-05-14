@@ -20,10 +20,13 @@ Step 3: Add the virtualenvwrapper shell configuration
 ~~~bash
 sudo nano ~/.bashrc
 ~~~
+
 Add the following line at the end of the file: 
+
 ~~~bash
 source /usr/local/bin/virtualenvwrapper.sh
-~~
+~~~
+
 Save the file and restart your terminal to apply the changes.
 -run
 ~~~bash
