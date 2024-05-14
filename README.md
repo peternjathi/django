@@ -2,8 +2,7 @@
 
 ## django installation on Linux.
 step 1: install virtualenv
--run
+
 ~~~bash
 sudo apt-get install python3-virtualenv
-~~~
 ~~~bash
