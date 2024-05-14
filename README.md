@@ -38,5 +38,5 @@ pip install django
 ~~~
 To start a new django project run:
 ~~~bash
-django-admin startproject myproject
+django-admin startproject "directory_name"
 ~~~
