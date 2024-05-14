@@ -30,6 +30,13 @@ source /usr/local/bin/virtualenvwrapper.sh
 Save the file and restart your terminal to apply the changes.
 -run
 ~~~bash
- mkvirtualenv "you desired name"
+ mkvirtualenv "your desired name"
 ~~~
-
+step 4: Install django on your newly installed environment
+~~~bash
+pip install django
+~~~
+To start a new django project run:
+~~~bash
+django-admin startproject myproject
+~~~
