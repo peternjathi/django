@@ -1,2 +1,2 @@
 # django
-# django installation on Linux.
+## django installation on Linux.
