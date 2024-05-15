@@ -40,3 +40,7 @@ To start a new django project run:
 ~~~bash
 django-admin startproject "directory_name"
 ~~~
+step 5: To open your virtual environment run.
+~~~bash
+workon "virtualenv_name"
+~~~
