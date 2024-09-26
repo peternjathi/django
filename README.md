@@ -28,7 +28,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 ~~~
 
 Save the file and restart your terminal to apply the changes.
--run
+-run.
 ~~~bash
  mkvirtualenv "your desired name"
 ~~~
