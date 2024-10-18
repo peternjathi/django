@@ -32,7 +32,7 @@ Save the file and restart your terminal to apply the changes.
 ~~~bash
  mkvirtualenv "your desired name"
 ~~~
-step 4: Install django on your newly installed environment
+step 4: Install django on your newly installed environment.
 ~~~bash
 pip install django
 ~~~
